@@ -18,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkumaurya23&show_icons=true&locale=en&layout=compact" alt="rupesh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinkumaurya23&show_icons=true&locale=en" alt="rupesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=respondruoesh19&show_icons=true&locale=en" alt="rupesh" /></p>
